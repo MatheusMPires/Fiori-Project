@@ -21,6 +21,7 @@ sap.ui.define([
          * Called when the worklist controller is instantiated.
          * @public
          */
+       
         onInit : function () {
             // Model used to manipulate control states. The chosen values make sure,
             // detail page shows busy indication immediately so there is no break in
